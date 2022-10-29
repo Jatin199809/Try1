@@ -1,18 +1,3 @@
-# Hacktoberfest-2019
-A repository for beginners to create their first Pull Request. 
-
-# Steps to Create your first PR and get Official Hacktoberfest merchandise for free.
-## Step 0: Create a [Github](https://github.com/) account for free [here](https://github.com/).
-## Step 1: Register at [Hactoberfest-2019](https://hacktoberfest.digitalocean.com/) using your github id.
-## Step 2: Star this [repo](https://github.com/abhilashk433/Hacktoberfest-2018) and share it with your friends.
-## Step 3: Just open "[index.html](https://github.com/abhilashk433/Hacktoberfest-2018/blob/master/index.html)" and include your name and the link to your github profile in the "[li](https://github.com/abhilashk433/Hacktoberfest-2018/blob/master/index.html)" tags to make a connection with all other open enthusiasts like us.
-
-Happy coding fellas!!
-
-Don't worry newcomers!! Everyone's PRs will be merged!! Make this your first step to development and open source. Get the confidence you require!!
-
-All of your suggestions are welcome!!
-
 You can add references to some cool open source projects below:
 ### 1. [Zulip](https://github.com/zulip) -
        Zulip is 100% open source software, built by a vibrant community of hundreds of developers from all around the world.
